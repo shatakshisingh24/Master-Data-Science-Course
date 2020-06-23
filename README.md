@@ -4,3 +4,4 @@ Contains code I did during live sessions of Master Data Science Course by Coding
 2. Implementing KNN using sklearn library. (MNIST dataset)
 3. Face Recognition
 4. Linear Regression
+5.Logistic Regression
