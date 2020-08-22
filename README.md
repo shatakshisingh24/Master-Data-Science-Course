@@ -7,7 +7,7 @@ Contains code I did during live sessions of Master Data Science Course by Coding
 5.Logistic Regression
 6.NLTK library
 7.Naive Bayes Implementation
-
+8. ARIMA Model 
 
 
 Session-22: Deep Learning----How to create a simple Neural Networks
