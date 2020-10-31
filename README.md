@@ -8,6 +8,7 @@ Contains code I did during live sessions of Master Data Science Course by Coding
 6.NLTK library
 7.Naive Bayes Implementation
 8. ARIMA Model 
+9. Implementation of Single Layer Neural Network from Scratch (Perceptron)
 
 
 Session-22: Deep Learning----How to create a simple Neural Networks
