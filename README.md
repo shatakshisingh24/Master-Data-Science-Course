@@ -2,3 +2,4 @@
 1. Linear Algebra
 * Matrices, Tensors, Transpose
 * Broadcasting, Matrix, Hadamard Product
+* Norm, Det, Linear Equations
