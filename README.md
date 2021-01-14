@@ -1,3 +1,4 @@
 # Master-Data-Science-Course
-1. Linear Regression
-* Maths for multiple features
+1. Linear Algebra
+* Matrices, Tensors, Transpose
+* Broadcasting, Matrix, Hadamard Product
