@@ -5,4 +5,5 @@
 * Norm, Det, Linear Equations
 
 2. KNN
-* Implementation og KNN
+* Implementation of KNN
+* KNN on MNIST Data Set. Link for MNIST Dataset- [ https://www.kaggle.com/oddrationale/mnist-in-csv]
