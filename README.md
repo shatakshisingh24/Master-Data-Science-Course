@@ -3,3 +3,6 @@
 * Matrices, Tensors, Transpose
 * Broadcasting, Matrix, Hadamard Product
 * Norm, Det, Linear Equations
+
+2. KNN
+* Implementation og KNN
